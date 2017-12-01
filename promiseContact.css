@@ -1,0 +1,810 @@
+@charset "UTF-8";
+/* CSS Document */
+
+
+
+/* ***************************************************4000***************************************************************** */
+
+
+@media only screen 
+	and (min-device-width: 1601px)
+	and (max-device-width: 4000px)
+	and (-webkit-min-device-pixel-ratio: 1){
+		
+		#body-wrapper {
+			max-width: 1601px;
+			margin-right: auto;
+			margin-left: auto;
+		}	
+		
+		.w3-container {
+			padding: 0.01em;
+		}
+		
+		#mobileNav {
+			display: none;
+		}
+		
+		body {
+			display: block;
+			position: relative;  
+			margin: 0px;
+		}
+
+		a {
+			text-decoration-style: none!important;
+		}
+		
+		
+		#logoTop {
+			width: 100%;
+			margin-right: auto;
+			margin-left: auto;
+		}
+		
+		#mobileNav {
+			display: none;
+		}
+		
+		.mobileSky {
+			display: none;
+		}
+		
+		#marble {
+			position: absolute;
+			width: 100%;
+			max-width: 1600px;
+		}
+
+		#marble img {
+			max-width: 1600px;
+		}
+		
+		#logo {
+			position: relative;
+			}
+	
+		#logo img {
+			max-height: 115px;
+		}
+		
+		#desktopNav {
+			position: relative;
+			margin-top: -5%;
+			margin-left: 42%;
+			font-family: Helvetica, san-serif;
+			font-size: 1.4em;
+			font-weight: bold;
+			color: #333398;
+			text-decoration: none;
+		}
+	
+		#desktopNav ul {
+			margin: 0px 7px 0px 7px;
+			list-style-type: none;
+			padding: 3px 0px 3px 0px;
+			text-decoration: none;
+		}	
+	
+		#desktopNav ul li {
+			display: inline;
+			padding-right: 30px;
+			text-decoration: none;
+		}
+	
+		#desktopNav ul li a:link, ul li a:visited {
+			color: #333398;
+			border-bottom: none;
+			text-decoration: none;
+		}
+	
+		#desktopNav ul li.selected {
+			color: #95989A;	
+		}
+		
+		
+		.deskSky {
+			display: block;
+		}
+		
+		.institute {
+			width: 100%;
+		}
+		
+		#left-block{
+			display: table-cell;
+			position: absolute;
+			margin-top: -33%;
+			font-family: Baskerville, Palatino Linotype, Palatino, Century Schoolbook L, Times New Roman, serif;
+			font-weight: lighter;
+			color: #333398;
+			margin-left: 5%;
+			width: 60%;
+			max-height: 60%;
+			background-color: white;
+			opacity: .8;
+			padding: 2%;
+			box-shadow: 2px 5px 5px #95989A;	
+		}
+	
+		#left-block h3{
+			font-size: 1.5em;
+			font-weight: bold;
+			font-family: Sans Source Pro, Helvetica, sans-serif; 
+		}
+	
+		#left-block p{
+			font-size: 1.2em;
+			font-family: Baskerville, Palatino Linotype, Palatino, Century Schoolbook L, Times New Roman, serif;
+			font-weight: lighter;
+		}
+	
+		.callAction {
+			position: absolute;
+			margin-left: 65%;
+			margin-top: 5%;
+		}
+		
+	#footerBlock {
+		position: absolute;
+		font-family: Baskerville, Palatino Linotype, Palatino, Century Schoolbook L, Times New Roman, serif;
+		font-weight: lighter;
+		font-size: 1.2em;
+		color: #333398;
+		margin: 3% 5% 1% 5%;
+		padding: 10px 20px;
+	}
+	
+	footer h3 {
+		font-family: Sans Source Pro, Helvetica, sans-serif;
+		font-weight: bold;
+		font-size: 1.3em;
+	}	
+	
+		
+		#marble2 {
+			position: absolute;
+			width: 100%;
+			margin-top: 10%;
+		}	
+		
+		#marble2 img {
+			max-width: 1600px;
+		}
+		
+		.w3-card {
+			background-color: white;
+			opacity: .8;
+		}
+		
+		.w3-third {
+		width: 16.66%;
+	}
+		
+}
+
+	/* ***************************************************1600***************************************************************** */
+
+
+@media only screen 
+	and (min-device-width: 1351px)
+	and (max-device-width: 1600px)
+	and (-webkit-min-device-pixel-ratio: 1){
+
+		#body-wrapper {
+			max-width: 1601px;
+			margin-right: auto;
+			margin-left: auto;
+		}	
+		
+		.w3-container {
+			padding: 0.01em;
+		}
+		
+		#mobileNav {
+			display: none;
+		}
+		
+		body {
+			display: block;
+			position: relative;  
+			margin: 0px;
+		}
+
+		a {
+			text-decoration-style: none!important;
+		}
+		
+		#logoTop {
+			width: 100%;
+			margin-right: auto;
+			margin-left: auto;
+		}
+		
+		#mobileNav {
+			display: none;
+		}
+		
+		.mobileSky {
+			display: none;
+		}
+		
+		#marble {
+			position: absolute;
+			width: 100%;
+		}
+
+		#marble img {
+			position: absolute;
+			width: 100%;
+			height: 150px;
+			max-width: 1600px;
+		}
+		
+		#logo {
+			position: relative;
+			}
+	
+		#desktopNav {
+			position: relative;
+			margin-top: -6%;
+			margin-bottom: 3.35%;
+			margin-left: 35%;
+			font-family: Helvetica, san-serif;
+			font-size: 1.4em;
+			font-weight: bold;
+			color: #333398;
+			text-decoration: none;
+		}
+	
+		#desktopNav ul {
+			margin: 0px 7px 0px 7px;
+			list-style-type: none;
+			padding: 3px 0px 3px 0px;
+			text-decoration: none;
+		}	
+	
+		#desktopNav ul li {
+			display: inline;
+			padding-right: 50px;
+			text-decoration: none;
+		}
+	
+		#desktopNav ul li a:link, ul li a:visited {
+			color: #333398;
+			border-bottom: none;
+			text-decoration: none;		}
+	
+		#desktopNav ul li.selected {
+			color: #95989A;	
+			text-decoration: none;
+		}
+		
+		
+		.deskSky {
+			display: block;
+		}
+		
+		.institute {
+			width: 100%;
+			max-width: 1600px;
+		}
+		
+		#left-block{
+			display: table-cell;
+			position: absolute;
+			margin-top: -46%;
+			font-family: Baskerville, Palatino Linotype, Palatino, Century Schoolbook L, Times New Roman, serif;
+			font-weight: lighter;
+			color: #333398;
+			margin-left: 5%;
+			width: 50%;
+			max-height: 60%;
+			background-color: white;
+			opacity: .8;
+			padding: 2%;
+			box-shadow: 2px 5px 5px #95989A;	
+		}
+	
+		#left-block h3{
+			font-size: 1.5em;
+			font-weight: bold;
+			font-family: Sans Source Pro, Helvetica, sans-serif; 
+		}
+	
+		#left-block p{
+			font-size: 1.2em;
+			font-family: Baskerville, Palatino Linotype, Palatino, Century Schoolbook L, Times New Roman, serif;
+			font-weight: lighter;
+		}
+	
+		.callAction {
+			position: absolute;
+			margin-left: 65%;
+			margin-top: 5%;
+		}
+		
+		
+		
+	#footerBlock {
+		position: absolute;
+		font-family: Baskerville, Palatino Linotype, Palatino, Century Schoolbook L, Times New Roman, serif;
+		font-weight: lighter;
+		font-size: 1.1em;
+		color: #333398;
+		margin: 5% 5% 1% 5%;
+		padding: 10px 20px;
+	}
+	
+	footer h3 {
+		font-family: Sans Source Pro, Helvetica, sans-serif;
+		font-weight: bold;
+		font-size: 1.2em;
+	}	
+	
+		
+		#marble2 {
+			position: absolute;
+			width: 100%;
+			margin-top: 10%;
+		}	
+		
+		.w3-card {
+			background-color: white;
+			opacity: .8;
+		}
+		
+		.w3-third {
+		width: 16.66%;
+	}
+		
+}
+
+/* ***************************************************1350***************************************************************** */
+
+
+@media only screen 
+	and (min-device-width: 801px)
+	and (max-device-width: 1350px)
+	and (-webkit-min-device-pixel-ratio: 1){
+		
+		#body-wrapper {
+			position: relative;
+			display: block;
+			width: 100%;
+			max-width: 1350px;
+			margin-right: auto;
+			margin-left: auto;
+		}	
+		
+		a {
+			text-decoration-style: none!important;
+		}
+		
+		#logoTop {
+			width: 100%;
+			margin-right: auto;
+			margin-left: auto;
+		}
+		
+		#mobileNav {
+			display: none;
+		}
+		
+		.mobileSky {
+			display: none;
+		}
+		
+		#marble {
+			position: absolute;
+			width: 100%;
+		}
+
+		#logo {
+			position: relative;
+			}
+	
+		#desktopNav {
+			position: relative;
+			margin-top: -6%;
+			margin-left: 42%;
+			font-family: Helvetica, san-serif;
+			font-size: 1.129em;
+			font-weight: bold;
+			color: #333398;
+			text-decoration: none;
+		}
+	
+		#desktopNav ul {
+			margin: 0px 7px 0px 7px;
+			list-style-type: none;
+			padding: 3px 0px 3px 0px;
+			text-decoration: none;
+		}	
+	
+		#desktopNav ul li {
+			display: inline;
+			padding-right: 30px;
+			text-decoration: none;
+		}
+	
+		#desktopNav ul li a:link, ul li a:visited {
+			color: #333398;
+			border-bottom: none;
+			text-decoration: none;
+		}
+	
+		#desktopNav ul li.selected {
+			color: #95989A;
+			text-decoration: none;
+		}
+		
+		
+		.deskSky {
+			display: block;
+		}
+		
+		.institute {
+			width: 100%;
+		}
+		
+		#left-block{
+			display: table-cell;
+			position: absolute;
+			margin-top: -46%;
+			font-family: Baskerville, Palatino Linotype, Palatino, Century Schoolbook L, Times New Roman, serif;
+			font-weight: lighter;
+			color: #333398;
+			margin-left: 3%;
+			width: 60%;
+			max-height: 60%;
+			background-color: white;
+			opacity: .8;
+			padding: 2%;
+			box-shadow: 2px 5px 5px #95989A;	
+		}
+	
+		#left-block h3{
+			font-family: Sans Source Pro, Helvetica, sans-serif;
+			font-weight: bold;
+			font-size: 1.2em;
+		}
+	
+		#left-block p{
+			font-size: 1em;
+			font-family: Baskerville, Palatino Linotype, Palatino, Century Schoolbook L, Times New Roman, serif;
+			font-weight: lighter;
+		}
+	
+		.callAction {
+			position: absolute;
+			margin-left: 65%;
+			margin-top: 5%;
+		}
+		
+		.faq {
+		position: relative;
+		display: block;
+		font-family: Baskerville, Palatino Linotype, Palatino, Century Schoolbook L, Times New Roman, serif;
+		color: #333398;
+		margin-left: 5%;
+		margin-bottom: 5%;
+	}
+	
+	.faq h2{
+		font-family: Sans Source Pro, Helvetica, sans-serif;
+		font-weight: bold;
+		font-size: 1.2em;
+		padding-top: 10px;
+	}
+	.faq p{
+		font-size: 0.8em;
+		font-weight: lighter;
+		width: 90%;
+	}
+
+	.faq ul {
+		margin: 0% 5% 0% 5%;
+		list-style-type: circle;
+		padding: 5px 0px 5px 0px;
+		font-weight: lighter;
+	}	
+	
+	
+	/* Style the buttons that are used to open and close the accordion panel */
+	button.accordion {
+    	background-color: #F0F4F7;
+		font-family: Helvetica, sans-serif;
+		font-weight: lighter;
+		font-size: 16px;
+    	color: #333398;
+    	cursor: pointer;
+    	padding: 18px;
+		margin-left: -2.5%;
+    	width: 100%;
+    	text-align: left;
+    	border: none;
+    	outline: none;
+    	transition: 0.4s;
+	}
+
+/* Add a background color to the button if it is clicked on (add the .active class with JS), and when you move the mouse over it (hover) */
+	button.accordion.active, button.accordion:hover {
+    	background-color: #D9EAF5;
+	}
+
+	button.accordion:after {
+    	content: '\02795'; /* Unicode character for "plus" sign (+) */
+    	font-size: 16px;
+    	color: #333398;
+    	float: right;
+    	margin-left: 5px;
+}
+
+	button.accordion.active:after {
+    	content: "\2796"; /* Unicode character for "minus" sign (-) */
+}
+	
+/* Style the accordion panel. Note: hidden by default */
+	div.panel {
+    	padding: 0 18px;
+    	background-color: white;
+    	display: none;
+		width: 100%;
+		font-family: Helvetica, sans-serif;
+	}
+		
+	#simpleSearch2 {
+		position: absolute;
+		display: block;
+		opacity: 80%;
+		margin-left: 40%;
+		margin-top: -3%;
+		
+	}	
+		
+	.w3-third {
+		width: 16.66%;
+	}
+		
+	#footerBlock {
+		position: absolute;
+		font-family: Baskerville, Palatino Linotype, Palatino, Century Schoolbook L, Times New Roman, serif;
+		font-weight: lighter;
+		font-size: .9em;
+		color: #333398;
+		margin: 2.5%;
+		padding: 20px;
+	}
+	
+	footer h3 {
+		font-family: Sans Source Pro, Helvetica, sans-serif;
+		font-weight: bold;
+		font-size: 1em;
+	}	
+		
+		#marble2 {
+			position: absolute;
+			width: 100%;
+			margin-top: 10%;
+		}	
+		
+		.w3-card {
+			background-color: white;
+			opacity: .8;
+		}
+		
+		.w3-container {
+			padding: 0px;
+		}
+		
+}
+
+
+/* ***************************************************800***************************************************************** */
+
+@media only screen 
+	and (max-device-width: 800px)
+ 	and (-webkit-min-device-pixel-ratio: 1){
+
+	a {
+		text-decoration-style: none!important;
+		}	
+		
+	#body-wrapper {
+		position: relative;
+		display: block;
+		width: 100%;
+		max-width: 800px;
+		margin-right: auto;
+		margin-left: auto;
+	}	
+		
+	#marble {
+		display: none;
+	}
+		
+	.callAction {
+		display: none;
+	}
+	
+	#desktopNav {
+		display: none;
+	}
+		
+	.mobileSky {
+		display: block;
+		}
+		
+	.deskSky {
+		display: none;
+	}	
+		
+	.w3-container {
+		padding: 0px;
+		font-family: Sans Source Pro, Helvetica, sans-serif;
+	}
+	
+	#logoTop {
+		position: relative;
+	}
+	
+	#logoTop img {
+		width: 100%;
+	}
+	
+	#mobileNav {
+		width: 100%;
+		display: block;
+		position: relative;	
+		margin-top: -5px;
+		font-family: Sans Source Pro, Helvetica, sans-serif;
+		font-weight: bold;
+	}
+		
+	#mobileNav a {
+		text-decoration: none;	
+		}
+
+	.w3-indigo {
+		background-color: #333398!important;
+	}
+	
+	.institute {
+		width: 100%;
+		height: auto;
+		position: relative;
+		margin-top: -5px;
+	}
+	
+		
+		
+	#simpleSearch {
+		position: absolute;
+		opacity: 80%;	
+		margin-top: -30%;
+		margin-left: 20%;
+	}
+	
+	
+	#simpleSearch2 {
+		position: absolute;
+		opacity: 80%;
+		margin-left: 30%;
+		margin-bottom: 50px;
+	}
+	
+	#contactBlock {
+		position: relative;
+		display: block;
+		font-family: Baskerville, Palatino Linotype, Palatino, Century Schoolbook L, Times New Roman, serif;
+		font-weight: lighter;
+		font-size: .9em;
+		color: #333398;
+		margin: 5%;
+		margin-bottom: 10%;
+		padding: 5px;
+	}
+	
+	#contactBlock h3 {
+		font-family: Helvetica, sans-serif;
+		font-weight: bold;
+		font-size: 1.2em;
+	}
+		
+	.faq {
+		position: relative;
+		display: block;
+		font-family: Baskerville, Palatino Linotype, Palatino, Century Schoolbook L, Times New Roman, serif;
+		color: #333398;
+		margin-left: 5%;
+		margin-bottom: 5%;
+	}
+	
+	.faq h2{
+		font-family: Sans Source Pro, Helvetica, sans-serif;
+		font-weight: bold;
+		font-size: 1.2em;
+		padding-top: 10px;
+	}
+	.faq p{
+		font-size: 0.8em;
+		font-weight: lighter;
+		width: 90%;
+	}
+
+	.faq ul {
+		margin: 0% 5% 0% 5%;
+		list-style-type: circle;
+		padding: 5px 0px 5px 0px;
+		font-weight: lighter;
+	}	
+	
+	
+	/* Style the buttons that are used to open and close the accordion panel */
+	button.accordion {
+    	background-color: #F0F4F7;
+		font-family: Helvetica, sans-serif;
+		font-weight: lighter;
+		font-size: 16px;
+    	color: #333398;
+    	cursor: pointer;
+    	padding: 18px;
+		margin-left: -2.5%;
+    	width: 100%;
+    	text-align: left;
+    	border: none;
+    	outline: none;
+    	transition: 0.4s;
+	}
+
+/* Add a background color to the button if it is clicked on (add the .active class with JS), and when you move the mouse over it (hover) */
+	button.accordion.active, button.accordion:hover {
+    	background-color: #D9EAF5;
+	}
+
+	button.accordion:after {
+    	content: '\02795'; /* Unicode character for "plus" sign (+) */
+    	font-size: 16px;
+    	color: #333398;
+    	float: right;
+    	margin-left: 5px;
+}
+
+	button.accordion.active:after {
+    	content: "\2796"; /* Unicode character for "minus" sign (-) */
+}
+	
+/* Style the accordion panel. Note: hidden by default */
+	div.panel {
+    	padding: 0 18px;
+    	background-color: white;
+    	display: none;
+		width: 100%;
+		font-family: Helvetica, sans-serif;
+	}
+	
+	#footerBlock {
+		position: absolute;
+		font-family: Baskerville, Palatino Linotype, Palatino, Century Schoolbook L, Times New Roman, serif;
+		font-weight: lighter;
+		font-size: .9em;
+		color: #333398;
+		margin: 5%;
+		padding: 5px;
+	}
+	
+	footer h3 {
+		font-family: Sans Source Pro, Helvetica, sans-serif;
+		font-weight: bold;
+		font-size: 1.2em;
+	}
+
+		#marble2{
+			display: none;
+		}	
+		
+}
+	
+	
+
